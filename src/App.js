@@ -1,1 +1,0 @@
-alert("como es oy");
