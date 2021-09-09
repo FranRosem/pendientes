@@ -1,0 +1,24 @@
+{
+  "name": "pendientes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranRosem/pendientes.git"
+  },
+  "author": "Rosembluth Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranRosem/pendientes/issues"
+  },
+  "homepage": "https://github.com/FranRosem/pendientes#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
